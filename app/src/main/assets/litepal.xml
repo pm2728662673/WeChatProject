@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="User" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="cn.edu.xctf.pm.wechatproject.db.User" />
+    </list>
+</litepal>
